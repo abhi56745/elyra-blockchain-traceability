@@ -1,0 +1,18 @@
+[
+  {
+    "id": "MED001",
+    "name": "Zalepton",
+    "manufacturer": "Pfizer",
+    "batch": "BATCH-1001",
+    "expiry": "2026-12-10",
+    "price": 55
+  },
+  {
+    "id": "MED002",
+    "name": "Bicosule",
+    "manufacturer": "Cipla",
+    "batch": "BATCH-1002",
+    "expiry": "2027-10-10",
+    "price": 66
+  }
+]
